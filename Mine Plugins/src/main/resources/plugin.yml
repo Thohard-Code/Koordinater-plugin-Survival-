@@ -1,0 +1,11 @@
+name: Koordinater
+version: '${project.version}'
+main: me.thohard.koordinater.Koordinater
+api-version: 1.20
+authors: [ Thohard ]
+description: Koordinater Plugin.
+
+commands:
+  Koordinater:
+    description: Viser spilleren's koordinater.
+    usage: /Koordinater <message>

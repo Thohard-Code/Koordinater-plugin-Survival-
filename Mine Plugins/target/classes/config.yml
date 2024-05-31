@@ -1,0 +1,6 @@
+ database:
+  host: "localhost" # Name of host address
+  port: "3306" # connection port
+  database: "koordinater" # name of database
+  username: ""
+  password: ""
